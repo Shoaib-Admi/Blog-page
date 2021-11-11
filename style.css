@@ -1,0 +1,46 @@
+html {
+  font-size: 62.5;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+.lead-paragraph {
+  font-family: "PT Serif", serif;
+  font-style: italic;
+  font-size: 1.8rem;
+  line-height: 1.5;
+  margin-top: auto;
+}
+
+h1 {
+  font-size: 4.768rem;
+  letter-spacing: -1px;
+  margin-bottom: 1rem;
+}
+h2 {
+  font-size: 3.815rem;
+  margin: 3rem 0 0;
+}
+h3 {
+  font-size: 3.052rem;
+  margin: 3rem 0 1rem;
+}
+
+ul li {
+  font-size: 1.6rem;
+}
+span {
+  font-weight: 700;
+}
+
+.container {
+  max-width: 1140px;
+  margin: 10px auto;
+}
+img {
+  width: 100%;
+}
